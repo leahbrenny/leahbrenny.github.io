@@ -122,21 +122,3 @@ img:hover {
    margin-left: 0px;
 }
 
-
-ul li {
-    display: block;
-    height: 3em;    
-    line-height: 12px;
-}
-
-ul li span {
-    display: inline-block;  
-    vertical-align: middle;     
-}
-
-ul li:before{
-    content: '';
-    display: inline-block;
-    vertical-align: middle;
-    height: 100%;       
-}
