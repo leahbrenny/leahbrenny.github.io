@@ -1,15 +1,5 @@
-body{
-  color: #713aa1;
-}
-
-p{
-  color: red;
-}
-
-h1{
-  color: rgb(104, 148, 72);
-}
-
-h2 {
-  
+.name {
+  font-family: 'Garamond', sans-serif, Times New Roman;
+  font-weight: 300;
+  color: #a31e0f;
 }
