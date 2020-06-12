@@ -22,11 +22,12 @@ body {
 
 ul {
    font-size: 1rem;
+}
    
 img {
    transition:transform 0.25s ease;
-   }
-   img:hover {
+}
+ img:hover {
       -webkit-transform:scale(l.5);
       transform:scale(1.5);
-   }
+}
