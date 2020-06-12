@@ -26,7 +26,6 @@ ul {
    
 img {
     transition:transform 0.25s ease;
-   padding: 100px;
 }
 
 img:hover {
