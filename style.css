@@ -141,3 +141,7 @@ ul li span{
 #people {
    display: inline-block;
 }
+
+#reftext {
+   border: 2px dotted #000
+}
