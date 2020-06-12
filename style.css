@@ -44,6 +44,10 @@ img:hover {
    float: right;
 }
 
-#atext {
-   float: right
+.atext {
+   float: right;
+}
+
+ .contact {
+    float: left;
 }
