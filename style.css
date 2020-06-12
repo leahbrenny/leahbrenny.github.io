@@ -16,7 +16,7 @@ div id=".basic-info" {
 }
 
 .companyname {
-  border-bottom: 1px solid
+  border-bottom: 1px solid #000
 }
 
 .duration {
