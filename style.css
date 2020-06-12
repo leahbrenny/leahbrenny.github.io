@@ -3,7 +3,7 @@
   font-weight: 300;
   color: #a31e0f;
 }
-.basic-info {
+div id=".basic-info" {
   
 }
 
@@ -19,8 +19,4 @@
 
 .duration {
  float: right; 
-}
-
-div id=basic-info {
-  display: block;
 }
