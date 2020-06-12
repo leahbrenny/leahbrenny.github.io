@@ -1,16 +1,18 @@
 body {
    font-family: 'Garamond', sans-serif, Times New Roman;
-   flex-direction: column;
+
 }
 
 .name {
   font-size: 2rem;
   color: #a31e0f;
+  text-align: center;
 }
 
 .sections {
   text-decoration:underline;
   color: #51039e;
+  text-align: center;
 }
 
 .companyname {
