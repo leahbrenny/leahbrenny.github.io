@@ -21,6 +21,6 @@
  float: right; 
 }
 
-div {
+div id=basic-info {
   display: block;
 }
