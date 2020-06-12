@@ -27,7 +27,10 @@ ul {
 img {
     transition:transform 0.25s ease;
    padding-left: 100px;
+   padding-right: 100px;
    padding-top: 50px;
+   padding-bottom: 50px;
+  
     float: left;
 }
 
