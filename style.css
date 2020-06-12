@@ -1,5 +1,8 @@
+body {
+   font-family: 'Garamond', sans-serif, Times New Roman;
+}
+
 .name {
-  font-family: 'Garamond', sans-serif, Times New Roman;
   font-weight: 300;
   color: #a31e0f;
 }
@@ -8,15 +11,17 @@ div id=".basic-info" {
 }
 
 .sections {
-  font-family: 'Garamond', sans-serif, Times New Roman;
   color: #51039e;
 }
 
 .companyname {
-  font-family: 'Garamond', sans-serif, Times New Roman;
   text-decoration:underline;
 }
 
 .duration {
  float: right; 
+}
+
+cnd" {
+ display: block; 
 }
