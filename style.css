@@ -25,10 +25,10 @@ ul {
 }
    
 img {
-   transition:transform 0.25s ease;
+    transition:transform 0.25s ease;
 }
 
 img:hover {
-      -webkit-transform:scale(l.5);
-      transform:scale(1.5);
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
