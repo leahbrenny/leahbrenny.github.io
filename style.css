@@ -26,6 +26,8 @@ ul {
    
 img {
     transition:transform 0.25s ease;
+   padding-left: 100px;
+   padding-top: 50px;
     float: left;
 }
 
