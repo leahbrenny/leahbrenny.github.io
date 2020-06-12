@@ -4,10 +4,18 @@
   color: #a31e0f;
 }
 .basic-info {
-  margin: 20px;
+  
 }
 
 .sections {
   font-family: 'Garamond', sans-serif, Times New Roman;
   color: #51039e;
+}
+
+.companyname {
+  font-family: 'Garamond', sans-serif, Times New Roman;
+}
+
+.duration {
+ float: right; 
 }
