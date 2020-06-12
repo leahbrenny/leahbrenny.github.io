@@ -136,6 +136,8 @@ ul li {
 ul li span{
     display:table-cell;
     vertical-align: middle;
+   padding-top: 4px;
+   padding-bottom: 4px;
 }
 
 #reftext {
