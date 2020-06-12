@@ -122,22 +122,6 @@ img:hover {
    margin-left: 0px;
 }
 
-ul {
-    display: table;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-ul li {
-    height: 3em;
-    display: table-row;
-}
-
-ul li span{
-    display:table-cell;
-    vertical-align: middle;
-}
-
 #reftext {
    border: 2px dotted #000
    padding-top: 10px;
