@@ -11,11 +11,12 @@ div id=".basic-info" {
 }
 
 .sections {
+  text-decoration:underline;
   color: #51039e;
 }
 
 .companyname {
-  text-decoration:underline;
+  border-bottom: 1px solid
 }
 
 .duration {
