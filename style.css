@@ -13,11 +13,11 @@ body {
 }
 
 .companyname {
+  float: left;
   border-bottom: 1px solid #000
 }
 
 .duration {
-   margin-bottom: 20px;
  float: right; 
 }
 
