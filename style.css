@@ -3,3 +3,7 @@
   font-weight: 300;
   color: #a31e0f;
 }
+
+.home address {
+  display: inline;
+}
