@@ -54,13 +54,16 @@ img:hover {
 }
 
 #tempspec {
-   
+   border: 2px solid #000;
+   border-spacing: 4px;
 }
 
 #mico {
-   
+   border: 2px solid #000;
+   border-spacing: 4px;
 }
 
 #ccab {
-   
+   border: 2px solid #000;
+   border-spacing: 4px;
 }
