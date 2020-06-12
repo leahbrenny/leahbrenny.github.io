@@ -51,31 +51,47 @@ img:hover {
 #boston {
    border: 2px solid #000;
    padding-top: 10px;
-   padding-left: 0px;
-   padding-right: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
    padding-bottom: 10px;
+   margin-top: 10px
+   margin-bottom: 10px;
+   margin-right: 0px;
+   margin-left: 0px;
 }
 
 #tempspec {
    border: 2px solid #000;
    padding-top: 10px;
-   padding-left: 0px;
-   padding-right: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
    padding-bottom: 10px;
+   margin-top: 10px
+   margin-bottom: 10px;
+   margin-right: 0px;
+   margin-left: 0px;
 }
 
 #mico {
    border: 2px solid #000;
    padding-top: 10px;
-   padding-left: 0px;
-   padding-right: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
    padding-bottom: 10px;
+   margin-top: 10px
+   margin-bottom: 10px;
+   margin-right: 0px;
+   margin-left: 0px;
 }
 
 #ccab {
    border: 2px solid #000;
   padding-top: 10px;
-   padding-left: 0px;
-   padding-right: 0px;
+   padding-left: 10px;
+   padding-right: 10px;
    padding-bottom: 10px;
+   margin-top: 10px
+   margin-bottom: 10px;
+   margin-right: 0px;
+   margin-left: 0px;
 }
