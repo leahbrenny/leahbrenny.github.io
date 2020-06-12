@@ -137,3 +137,7 @@ ul li span{
     display:table-cell;
     vertical-align: middle;
 }
+
+#people {
+   display: inline-block;
+}
