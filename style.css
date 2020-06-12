@@ -39,7 +39,7 @@ img:hover {
     transform:scale(1.5);
 }
 
-.award {
+ul class="award" {
    font-style: italic;
 }
  div id:"compdur" {
