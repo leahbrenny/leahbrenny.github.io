@@ -4,6 +4,8 @@ body {
    margin-right: 200px;
    margin-top: 0px;
    margin-bottom: 0px;
+  background-image: url(https://image.freepik.com/free-vector/seamless-pattern_1159-5086.jpg);
+  background-repeat: repeat-y;
 }
 
 #info {
