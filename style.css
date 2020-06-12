@@ -50,20 +50,32 @@ img:hover {
 
 #boston {
    border: 2px solid #000;
-   border-spacing: 10px;
+   padding-top: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-bottom: 10px;
 }
 
 #tempspec {
    border: 2px solid #000;
-   border-spacing: 10px;
+   padding-top: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-bottom: 10px;
 }
 
 #mico {
    border: 2px solid #000;
-   border-spacing: 10px;
+   padding-top: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-bottom: 10px;
 }
 
 #ccab {
    border: 2px solid #000;
-   border-spacing: 10px;
+  padding-top: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-bottom: 10px;
 }
