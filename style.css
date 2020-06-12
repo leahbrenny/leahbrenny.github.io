@@ -39,9 +39,9 @@ img:hover {
     transform:scale(1.5);
 }
 
-ul class="award" {
+#award {
    font-style: italic;
 }
- div id:"compdur" {
+ #compdur {
 border-bottom: 1px solid #000
 }
