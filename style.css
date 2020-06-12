@@ -50,6 +50,7 @@ img:hover {
 
 #boston {
    border: 2px solid #000;
+   border-spacing: 4px;
 }
 
 #tempspec {
