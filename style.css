@@ -26,10 +26,10 @@ ul {
    
 img {
     transition:transform 0.25s ease;
-   padding-left: 100px;
-   padding-right: 100px;
-   padding-top: 50px;
-   padding-bottom: 50px;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 50px;
+   margin-bottom: 50px;
   
     float: left;
 }
