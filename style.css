@@ -43,6 +43,7 @@ img:hover {
    font-style: italic;
    float: right;
 }
- p {
-    text-align: right;
+
+#atext {
+   float: right
 }
