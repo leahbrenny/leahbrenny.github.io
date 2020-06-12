@@ -3,7 +3,7 @@ body {
 }
 
 .name {
-  font-weight: 300;
+  font-size: 1rem;
   color: #a31e0f;
 }
 
@@ -20,6 +20,5 @@ body {
  float: right; 
 }
 
-.cnd {
- display: block; 
-}
+ul {
+   font-size: 0.75rem;
