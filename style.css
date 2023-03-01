@@ -43,9 +43,6 @@ body {
     yellow 0 0 10rem;
   padding: 1rem 0.5rem;
   margin: auto;
-}
-
-.glow {
   animation: blink 1s infinite ease-in-out;
 }
 
